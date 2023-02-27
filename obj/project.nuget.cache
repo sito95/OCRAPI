@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "m70jaDwpdTR+XFsipS70R0z2eByEGcR9x2L9bqZLkp1gUqf9Rr4OBoaUqiT+/PcHxo5BatvoQIgqJtxdZRj2dQ==",
+  "success": true,
+  "projectFilePath": "N:\\2_OCR\\OCR-2022-4Q\\OCRAPI-W511\\OCRAPI-W511.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.api.commonprotos\\2.7.0\\google.api.commonprotos.2.7.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.api.gax\\4.3.0\\google.api.gax.4.3.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.api.gax.grpc\\4.3.0\\google.api.gax.grpc.4.3.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.apis\\1.58.0\\google.apis.1.58.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.apis.auth\\1.58.0\\google.apis.auth.1.58.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.apis.core\\1.58.0\\google.apis.core.1.58.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.cloud.vision.v1\\3.3.0\\google.cloud.vision.v1.3.3.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.longrunning\\3.0.0\\google.longrunning.3.0.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\google.protobuf\\3.21.0\\google.protobuf.3.21.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\grpc.auth\\2.51.0\\grpc.auth.2.51.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\grpc.core.api\\2.51.0\\grpc.core.api.2.51.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\grpc.net.client\\2.51.0\\grpc.net.client.2.51.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\grpc.net.common\\2.51.0\\grpc.net.common.2.51.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\SO.ITO-BSW\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

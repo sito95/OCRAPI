@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "awesome-pulsar-376706",
+  "private_key_id": "073db384c0ed472d688e2a06245fe6aff43cbecd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmLowW0cjBweeI\nCXmusKgYdHSZua9ThBg8xqDzI+wn9vgUb8xQ3NLe231M30tN/ep6enSktEAdr3NK\nd1REnzqX8dZI4FmLk14FTbV41nZCyHGuTa8eJjN/iuSv/KZj3oe+RoaIfhvrR3i4\nuHVrK1Yx/6XnjvNVJcSa1SADTU99No4EskgGp+Gz0eUP6X8fbWq59QpcN4G3yX3G\n/HSaxWQQb3Lr/NvKXHrWPNbWmokCcHevivEzh6WKEbiXPQNrQSIO9UPiKGJDz+g6\nyGK6oWdOOTDR3s6bcNhfpA90e1pCHMZZEryKSbReHGLJ/fB2MtdnCbc2ak9vtCs8\nj1i+df9BAgMBAAECggEASuxmja1EmZLeW/eFrIyKJQhwP5S3puxB7zjQfP6/rN8M\nx04GbJi62+5ShlOQRJgL3O+T4mRAGgIt9S9qx0uQ48uNhKrdxG+LLtHz1QjAJejw\nVBlDMFEh28mXxH6g2BsO0WtDoYtV9BRzqbjEe658vKsZthY9wDB4fSREvChhg75Y\naJE95jHEJWWjCcN7qo6N1DkQ9jYElfLOg4kNlO0O8qRVjwGs3xdC83gaolR3OkMl\n91ppaFeahdF1XMwUO2tiPlDGaU6r9rj/Cf5x4q4ZnfTRhW5rKWmk3S/FW6SmnSPX\nRbxYNqEDUmBKd/Y9ZxTOoZTecug/8rKx8LaksqWExwKBgQDT3zNnJTMeUkajAdoe\nGdAflEDsNbr2DePtfIESa7AZ8BXPMrHAP9wg2rkn2xGraEo5JX+gVxk3e8LDLm8C\ngox03GRNPKJbRDpxtxHBRcPz6GLsTGqa9grVjfHVTDMBCCKHIQwW6zaDT7rgUk8B\n3rRzEz994CYdkraub6Bdw+0AWwKBgQDIyzKspD0zxyPd1tBU4QQGFYHSUgpqjwoK\nGqJlhin52j9F8QkfnXlzQxd4FWZyhGvOQgaPt172I09nPCnzPdVCsGXe+ugdWR49\nT3gy5w+sakp05iUUxfj3t7hmX/mORhKomCKHODa8dg20Ns9I2/+Out68Wy1adX0V\n6WuKFGZRkwKBgDYjMFVI0hkLWPVKAdvzKJUJItW4nP9GaVlDmQ+F6MeX61q4T2ca\najsS6IDgn1E3ItAbXtMvrkfZHdkVwlPX29/4eMCrn6jGdFCeQLEsDHgEh1Jt7EeQ\nWxBaZtLj15yJ4Zi5vwcULye6dbvgDEQkDePhpTWa0uJ3nKpR555N8/9FAoGBAIt8\nlTRXV+jbQzA9pTYBpsDvOeM4eOHzgh7ox73NSOW31lKpEhRzWcZXajtSanvNP/Ll\n7RbzZLWKbAOkSOQgJUERt4MCPDL/EMG4riB2YW393MF+i2315XF4oFIGBB/wz89s\n+DeFNokPXY++r5rGsa6eZFLm6Ae6LG4HXFxstXOfAoGAB1F6HTZnYMX/GEQB7m7P\nysPr81Xne7uOkwU/Fn5fehtmkqfSf5lLPX8w72so3THtsp7KhkN4R1F0sXV2k3uN\nrba8RPfgOBgLmwrhZxjxgbmQOxmCdWLC1xCapyiEAXQTJbYPFOxIFWKnjRvNjYdD\nE3zLI3NCi/b7nPqmOWy29uE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "s-ito-822@awesome-pulsar-376706.iam.gserviceaccount.com",
+  "client_id": "113305453283411905814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/s-ito-822%40awesome-pulsar-376706.iam.gserviceaccount.com"
+}
